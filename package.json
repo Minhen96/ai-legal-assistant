@@ -1,26 +1,20 @@
 {
   "name": "vite_react_shadcn_ts",
-<<<<<<< HEAD
   "version": "0.0.0",
   "private": true,
   "description": "**URL**: https://lovable.dev/projects/dde893db-6144-4a53-b885-e7bf41112fb4",
-  "homepage": "https://github.com/zhikengan/my-legal#readme",
+  "homepage": "https://github.com/Minhen96/ai-legal-assistant.git#readme",
   "bugs": {
-    "url": "https://github.com/zhikengan/my-legal/issues"
+    "url": "https://github.com/Minhen96/ai-legal-assistant/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhikengan/my-legal.git"
+    "url": "git+https://github.com/Minhen96/ai-legal-assistant.git"
   },
   "license": "ISC",
   "author": "q",
   "type": "module",
   "main": "eslint.config.js",
-=======
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
->>>>>>> 0d2072b (add related docs)
   "scripts": {
     "dev": "vite",
     "build": "vite build",
